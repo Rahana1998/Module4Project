@@ -1,0 +1,63 @@
+body
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.detail
+{
+    width: 40%;
+    margin: 50px auto 0px;
+    color: white;
+    background: #5F9EA0;
+    border: 1px solid #B0C4DE;
+    border-bottom: none;
+    border-radius: 10px 10px 10px 10px;
+    padding: 20px;
+    height: 800px;
+  
+}
+.Emp_detail
+{
+    margin-left: 70px;
+}
+.empdet
+{
+    height: 30px;
+    width: 75%;
+    padding: 5px 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+.Emp_detail label
+{
+    display: block;
+    text-align: left;
+    margin: 3px;
+}
+.emp_det
+{
+    width: 375px;
+}
+.btn {
+    width:60px;
+    height: 25px;
+    border-radius: 5px;
+}
+#Emp1
+{
+    text-align: center;
+}
+#add
+{
+    margin-left: 75px;
+    border-radius: 6px;
+}
+#fileToUpload
+{
+    border-radius: 6px;
+}
+#gender
+{
+    margin-left: 72px;
+}

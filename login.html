@@ -1,0 +1,29 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Registration system PHP and MySQL</title>
+  <link rel="stylesheet" type="text/css" href="cssfiles/style.css">
+</head>
+<body>
+	<div id="login">
+  <div class="header">
+  	<h2>Login</h2>
+	</div>
+  	<form method="post" action="login.php">
+  	<?php include('errors.php'); ?>
+  	<div class="input-group">
+  		<label>Username</label>
+  		<input type="text" name="uname" >
+  	</div>
+  	<div class="input-group">
+  		<label>Password</label>
+  		<input type="password" name="pwrd">
+  	</div>
+  	<div class="input-group">
+  		<button type="submit" class="btn" name="log">Login</button>
+          Forgot <a href="forgot.html"> password? </a>   
+  	</div>
+  </form>
+</div>
+</body>

@@ -1,0 +1,67 @@
+body
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+.Emp_detail label
+{
+    display: block;
+    text-align: left;
+    margin: 3px;
+    font-size: 20px;
+}
+.emp
+{
+    height: 45px;
+    width: 85%;
+    padding: 5px 10px;
+    font-size: 18px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+.Emp_detail
+{
+    margin-left: 75px;
+}
+
+#empadd
+{
+    width: 40%;
+    margin: 50px auto 0px;
+    color: white;
+    background: #5F9EA0;
+    border: 1px solid #B0C4DE;
+    border-bottom: none;
+    border-radius: 10px 10px 10px 10px;
+    padding: 20px;
+    height: 900px;
+  
+}
+#gender
+{
+    margin-left: 25px;
+}
+#gen
+{
+    margin-left: 75px;
+}
+.Emp_detail 
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+#gen
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+.btn
+{
+    border-radius: 6px;
+    margin-left: 75px;
+}
+#det
+{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
